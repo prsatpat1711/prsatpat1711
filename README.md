@@ -3,8 +3,8 @@
 - 🌱 I’m currently developing generative AI applications in my work but also create my own personal full stack projects here. Feel free to look at my repos.
 
 Deployed sites:-
-1. [https://prsatpat1711.github.io/thedebnathfilms/][The Debnath Films]
-2. 
+1. [The Debnath Films](https://prsatpat1711.github.io/thedebnathfilms/)
+2. [My Portfolio](https://prsatpat1711.github.io/prsatpat1711.-github.io/)
 
 <!---
 prsatpat1711/prsatpat1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
