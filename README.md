@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Pratik Satpathy
-- 👀 I’m interested in Backend development, Android Development.
-- 🌱 I’m currently learning Backend development, Data Structures and Algorithms.
+- 👀 Full stack developer with knowledge in React, Django, Flask.
+- 🌱 I’m currently developing generative AI applications in my work but also create my own personal full stack projects here. Feel free to look at my repos.
+
+Deployed sites:-
+1. [https://prsatpat1711.github.io/thedebnathfilms/][The Debnath Films]
+2. 
 
 <!---
 prsatpat1711/prsatpat1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
